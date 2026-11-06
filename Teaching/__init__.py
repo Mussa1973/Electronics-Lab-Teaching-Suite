@@ -1,0 +1,1 @@
+"""Teaching content: lessons, quizzes, GUI."""
